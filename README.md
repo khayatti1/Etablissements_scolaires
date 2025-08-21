@@ -1,4 +1,4 @@
-un fichier README complet pour le projet de gestion d'établissements scolaires en VB.NET. Ce README inclut :
+README complet pour le projet de gestion d'établissements scolaires en VB.NET. Ce README inclut :
 
 ## 🔍 **Points Clés du README :**
 Le Projet est une application de bureau développée en VB.NET pour la gestion complète d'établissements scolaires. 
@@ -17,11 +17,11 @@ bashgit clone [URL_DU_REPO]
 Placez le fichier academie.accdb dans le dossier de l'application
 Vérifiez la chaîne de connexion dans Module1.vb
 *Compilez et exécutez le projet
-6. **Guide d'utilisation** avec navigation et opérations CRUD
-7. **Exemples de code** pour les fonctions principales
-8. **Gestion des erreurs** et validation
-9. **Fonctionnalités d'export HTML**
-10. **Suggestions d'améliorations** futures
+7. **Guide d'utilisation** avec navigation et opérations CRUD
+8. **Exemples de code** pour les fonctions principales
+9. **Gestion des erreurs** et validation
+10. **Fonctionnalités d'export HTML**
+11. **Suggestions d'améliorations** futures
 
 ## 📋 **Caractéristiques de votre projet identifiées :**
 
