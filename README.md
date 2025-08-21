@@ -11,11 +11,16 @@ Cette application permet de gérer les informations des établissements, du mat�
 5. **Instructions d'installation** étape par étape
 *Clonez ou téléchargez le projet
 bashgit clone [URL_DU_REPO]
+
 *Ouvrez le fichier Khayatti-Projet.sln dans Visual Studio
+
 *Restaurez les packages NuGet si nécessaire
+
 *Configurez la base de données :
+
 Placez le fichier academie.accdb dans le dossier de l'application
 Vérifiez la chaîne de connexion dans Module1.vb
+
 *Compilez et exécutez le projet
 7. **Guide d'utilisation** avec navigation et opérations CRUD
 8. **Exemples de code** pour les fonctions principales
