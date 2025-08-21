@@ -9,6 +9,7 @@ Cette application permet de gérer les informations des établissements, du mat�
 3. **Architecture technique** avec technologies utilisées
 4. **Structure de la base de données** Access avec toutes les tables
 5. **Instructions d'installation** étape par étape
+
  *Clonez ou téléchargez le projet
   bashgit clone [URL_DU_REPO]
 
@@ -24,11 +25,11 @@ Cette application permet de gérer les informations des établissements, du mat�
 
  *Compilez et exécutez le projet
 
-7. **Guide d'utilisation** avec navigation et opérations CRUD
-8. **Exemples de code** pour les fonctions principales
-9. **Gestion des erreurs** et validation
-10. **Fonctionnalités d'export HTML**
-11. **Suggestions d'améliorations** futures
+6. **Guide d'utilisation** avec navigation et opérations CRUD
+7. **Exemples de code** pour les fonctions principales
+8. **Gestion des erreurs** et validation
+9. **Fonctionnalités d'export HTML**
+10. **Suggestions d'améliorations** futures
 
 ## 📋 **Caractéristiques de votre projet identifiées :**
 
