@@ -1,0 +1,56 @@
+C:\Users\Lenovo\source\repos\KHIYYATIPROJET\bin\Debug\KHIYYATIPROJET.exe.config
+C:\Users\Lenovo\source\repos\KHIYYATIPROJET\bin\Debug\KHIYYATIPROJET.exe
+C:\Users\Lenovo\source\repos\KHIYYATIPROJET\bin\Debug\KHIYYATIPROJET.pdb
+C:\Users\Lenovo\source\repos\KHIYYATIPROJET\bin\Debug\KHIYYATIPROJET.xml
+C:\Users\Lenovo\source\repos\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.Form2.resources
+C:\Users\Lenovo\source\repos\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.Form4.resources
+C:\Users\Lenovo\source\repos\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.Resources.resources
+C:\Users\Lenovo\source\repos\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.exe
+C:\Users\Lenovo\source\repos\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.xml
+C:\Users\Lenovo\source\repos\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.pdb
+C:\Users\Lenovo\source\repos\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.Materiel.resources
+C:\Users\Lenovo\source\repos\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.vbprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\DSI\I.D.E\KHIYYATIPROJET\bin\Debug\KHIYYATIPROJET.exe.config
+C:\Users\Lenovo\Desktop\DSI\I.D.E\KHIYYATIPROJET\bin\Debug\KHIYYATIPROJET.exe
+C:\Users\Lenovo\Desktop\DSI\I.D.E\KHIYYATIPROJET\bin\Debug\KHIYYATIPROJET.pdb
+C:\Users\Lenovo\Desktop\DSI\I.D.E\KHIYYATIPROJET\bin\Debug\KHIYYATIPROJET.xml
+C:\Users\Lenovo\Desktop\DSI\I.D.E\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.vbprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\DSI\I.D.E\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.Form2.resources
+C:\Users\Lenovo\Desktop\DSI\I.D.E\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.Materiel.resources
+C:\Users\Lenovo\Desktop\DSI\I.D.E\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.Form4.resources
+C:\Users\Lenovo\Desktop\DSI\I.D.E\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.Resources.resources
+C:\Users\Lenovo\Desktop\DSI\I.D.E\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\DSI\I.D.E\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DSI\I.D.E\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.exe
+C:\Users\Lenovo\Desktop\DSI\I.D.E\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.xml
+C:\Users\Lenovo\Desktop\DSI\I.D.E\KHIYYATIPROJET\obj\Debug\KHIYYATIPROJET.pdb
+C:\Users\Lenovo\Desktop\ME\MyProjects\Projet avec Khiyatti\bin\Debug\KHIYYATIPROJET.exe.config
+C:\Users\Lenovo\Desktop\ME\MyProjects\Projet avec Khiyatti\bin\Debug\KHIYYATIPROJET.exe
+C:\Users\Lenovo\Desktop\ME\MyProjects\Projet avec Khiyatti\bin\Debug\KHIYYATIPROJET.pdb
+C:\Users\Lenovo\Desktop\ME\MyProjects\Projet avec Khiyatti\bin\Debug\KHIYYATIPROJET.xml
+C:\Users\Lenovo\Desktop\ME\MyProjects\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.vbprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ME\MyProjects\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.Form2.resources
+C:\Users\Lenovo\Desktop\ME\MyProjects\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.Materiel.resources
+C:\Users\Lenovo\Desktop\ME\MyProjects\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.Form4.resources
+C:\Users\Lenovo\Desktop\ME\MyProjects\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.Resources.resources
+C:\Users\Lenovo\Desktop\ME\MyProjects\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ME\MyProjects\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ME\MyProjects\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.exe
+C:\Users\Lenovo\Desktop\ME\MyProjects\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.xml
+C:\Users\Lenovo\Desktop\ME\MyProjects\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.pdb
+E:\Projet avec Khiyatti\bin\Debug\KHIYYATIPROJET.exe.config
+E:\Projet avec Khiyatti\bin\Debug\KHIYYATIPROJET.exe
+E:\Projet avec Khiyatti\bin\Debug\KHIYYATIPROJET.pdb
+E:\Projet avec Khiyatti\bin\Debug\KHIYYATIPROJET.xml
+E:\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.vbproj.AssemblyReference.cache
+E:\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.Form2.resources
+E:\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.Materiel.resources
+E:\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.Form4.resources
+E:\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.Resources.resources
+E:\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.vbproj.GenerateResource.cache
+E:\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.vbproj.CoreCompileInputs.cache
+E:\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.exe
+E:\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.xml
+E:\Projet avec Khiyatti\obj\Debug\KHIYYATIPROJET.pdb

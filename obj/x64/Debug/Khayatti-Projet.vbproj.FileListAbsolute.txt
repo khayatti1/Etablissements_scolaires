@@ -1,0 +1,14 @@
+C:\Users\Khayatti\Documents\Projet avec Khiyatti\bin\x64\Debug\KHIYYATIPROJET.exe.config
+C:\Users\Khayatti\Documents\Projet avec Khiyatti\bin\x64\Debug\KHIYYATIPROJET.exe
+C:\Users\Khayatti\Documents\Projet avec Khiyatti\bin\x64\Debug\KHIYYATIPROJET.pdb
+C:\Users\Khayatti\Documents\Projet avec Khiyatti\bin\x64\Debug\KHIYYATIPROJET.xml
+C:\Users\Khayatti\Documents\Projet avec Khiyatti\obj\x64\Debug\Khayatti-Projet.vbproj.AssemblyReference.cache
+C:\Users\Khayatti\Documents\Projet avec Khiyatti\obj\x64\Debug\KHIYYATIPROJET.Form2.resources
+C:\Users\Khayatti\Documents\Projet avec Khiyatti\obj\x64\Debug\KHIYYATIPROJET.Materiel.resources
+C:\Users\Khayatti\Documents\Projet avec Khiyatti\obj\x64\Debug\KHIYYATIPROJET.Form4.resources
+C:\Users\Khayatti\Documents\Projet avec Khiyatti\obj\x64\Debug\KHIYYATIPROJET.Resources.resources
+C:\Users\Khayatti\Documents\Projet avec Khiyatti\obj\x64\Debug\Khayatti-Projet.vbproj.GenerateResource.cache
+C:\Users\Khayatti\Documents\Projet avec Khiyatti\obj\x64\Debug\Khayatti-Projet.vbproj.CoreCompileInputs.cache
+C:\Users\Khayatti\Documents\Projet avec Khiyatti\obj\x64\Debug\KHIYYATIPROJET.exe
+C:\Users\Khayatti\Documents\Projet avec Khiyatti\obj\x64\Debug\KHIYYATIPROJET.xml
+C:\Users\Khayatti\Documents\Projet avec Khiyatti\obj\x64\Debug\KHIYYATIPROJET.pdb
