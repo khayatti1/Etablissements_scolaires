@@ -19,7 +19,6 @@ Cette application permet de gérer les informations des établissements, du mat�
     *Configurez la base de données :
 
         Placez le fichier academie.accdb dans le dossier de l'application
-
         Vérifiez la chaîne de connexion dans Module1.vb
 
     *Compilez et exécutez le projet
