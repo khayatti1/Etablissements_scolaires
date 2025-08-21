@@ -1,7 +1,7 @@
 un fichier README complet pour le projet de gestion d'établissements scolaires en VB.NET. Ce README inclut :
 
 ## 🔍 **Points Clés du README :**
-Le Projet Khayatti est une application de bureau développée en VB.NET pour la gestion complète d'établissements scolaires. 
+Le Projet est une application de bureau développée en VB.NET pour la gestion complète d'établissements scolaires. 
 Cette application permet de gérer les informations des établissements, du matériel et des fournisseurs avec une interface utilisateur intuitive et des fonctionnalités d'export HTML.
 
 1. **Description complète** du système de gestion d'établissements scolaires
