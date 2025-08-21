@@ -10,12 +10,12 @@ Cette application permet de gérer les informations des établissements, du mat�
 4. **Structure de la base de données** Access avec toutes les tables
 5. **Instructions d'installation** étape par étape
 
- *Clonez ou téléchargez le projet
-  bashgit clone [URL_DU_REPO]
+            *Clonez ou téléchargez le projet
+             bashgit clone [URL_DU_REPO]
 
- *Ouvrez le fichier Khayatti-Projet.sln dans Visual Studio
+            *Ouvrez le fichier Khayatti-Projet.sln dans Visual Studio
 
- *Restaurez les packages NuGet si nécessaire
+            *Restaurez les packages NuGet si nécessaire
 
  *Configurez la base de données :
 
