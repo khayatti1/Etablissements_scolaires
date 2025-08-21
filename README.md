@@ -10,7 +10,7 @@ Cette application permet de gérer les informations des établissements, du mat�
 4. **Structure de la base de données** Access avec toutes les tables
 5. **Instructions d'installation** étape par étape
    
-    *Clonez ou téléchargez le projet :bashgit clone [URL_DU_REPO].
+    *Clonez ou téléchargez le projet : bashgit clone [URL_DU_REPO].
 
     *Ouvrez le fichier Khayatti-Projet.sln dans Visual Studio
    
@@ -18,9 +18,9 @@ Cette application permet de gérer les informations des établissements, du mat�
    
     *Configurez la base de données :
 
-      Placez le fichier academie.accdb dans le dossier de l'application
+        Placez le fichier academie.accdb dans le dossier de l'application
 
-      Vérifiez la chaîne de connexion dans Module1.vb
+        Vérifiez la chaîne de connexion dans Module1.vb
 
     *Compilez et exécutez le projet
 
