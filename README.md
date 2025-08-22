@@ -14,7 +14,7 @@ Cette application permet de gérer les informations des établissements, du mat�
    
    B. Ouvrez le fichier Khayatti-Projet.sln dans Visual Studio
    
-       ** Restaurez les packages NuGet si nécessaire
+   C. Restaurez les packages NuGet si nécessaire
    
    D. Configurez la base de données :
    
