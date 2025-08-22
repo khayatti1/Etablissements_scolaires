@@ -1,4 +1,4 @@
-# Etablissements_scolaires
+# Etablissements scolaires
 
 ##  Description
 **Etablissements_scolaires** est une application de bureau développée en **VB.NET** (Windows Forms), destinée à la gestion complète d'établissements scolaires. 
