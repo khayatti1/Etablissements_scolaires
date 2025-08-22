@@ -39,10 +39,4 @@ Elle permet d'administrer des données essentielles telles que les établissemen
 - Réalisez des opérations CRUD selon vos besoins.
 - Exportez les données en HTML pour les partager ou les imprimer.
 
-## Code d'exemple
-Voici un extrait illustrant la connexion à la base de données dans `Module1.vb` :
 
-```vbnet
-Module Module1
-    Public Connexion As New OleDb.OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=academie.accdb;")
-End Module
