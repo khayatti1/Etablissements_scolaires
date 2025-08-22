@@ -40,4 +40,4 @@ Cette application permet de gérer les informations des établissements, du mat�
 - **Validation des formulaires** et gestion d'erreurs
 - **Images et ressources** intégrées
 
-Ce README servira de documentation complète pour votre projet, facilitant sa compréhension, son installation et son utilisation par d'autres développeurs ou utilisateurs.
+Ce README servira de documentation complète pour votre projet, facilitant sa compréhension.
